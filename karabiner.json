@@ -124,7 +124,7 @@
                                     "key_code": "5",
                                     "modifiers": { "optional": ["any"] }
                                 },
-                                "to": [{ "shell_command": "open -a 'Ghostty.app'" }],
+                                "to": [{ "shell_command": "open -a 'Cmux.app'" }],
                                 "type": "basic"
                             },
                             {
@@ -287,7 +287,7 @@
                                     "key_code": "5",
                                     "modifiers": { "mandatory": ["right_option"] }
                                 },
-                                "to": [{ "shell_command": "open -a 'Ghostty.app'" }],
+                                "to": [{ "shell_command": "open -a 'Ghosty.app'" }],
                                 "type": "basic"
                             },
                             {
