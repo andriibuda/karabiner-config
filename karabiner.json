@@ -183,12 +183,12 @@
                                         "value": 1
                                     }
                                 ],
-                                "description": "Hyper + 9 -> Codex",
+                                "description": "Hyper + 9 -> T3 Code (Alpha)",
                                 "from": {
                                     "key_code": "9",
                                     "modifiers": { "optional": ["any"] }
                                 },
-                                "to": [{ "shell_command": "open -a 'Codex.app'" }],
+                                "to": [{ "shell_command": "open -a 'T3 Code (Alpha).app'" }],
                                 "type": "basic"
                             }
                         ]
@@ -311,7 +311,7 @@
                                     "key_code": "9",
                                     "modifiers": { "mandatory": ["right_option"] }
                                 },
-                                "to": [{ "shell_command": "open -a 'Codex.app'" }],
+                                "to": [{ "shell_command": "open -a 'T3 Code (Alpha).app'" }],
                                 "type": "basic"
                             },
                             {
